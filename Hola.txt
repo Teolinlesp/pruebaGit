@@ -1,0 +1,10 @@
+Este archivo es una prueba para subir un archivo desde git local a remoto:
+
+Usamos el comando
+* git ADD + nombre del archivo para agregarlo temporalmente y 
+* git Comit -m "un mensaje como por ejemplo comit 1" para agregarlo definitivamente
+
+Luego hacemos Push (pasa nuestro archivo a nuestro repositorio remoto. Ej origin), master es la rama
+* push -u origin master
+
+Luego hay que validar el usuario, le damos en abrir browser
